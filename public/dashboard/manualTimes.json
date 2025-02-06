@@ -1,0 +1,67 @@
+{
+    "PO": {
+      "_id": "6570b1edbf66fc48333c8828",
+      "name": "PO",
+      "manualTime": 60000
+    },
+    "PO (H&M)": {
+      "_id": "666b689b55b203bf751dde39",
+      "name": "PO (H&M)",
+      "manualTime": 60000
+    },
+    "PN/PL": {
+      "_id": "6570b1f8bf66fc48333c882a",
+      "name": "PN/PL",
+      "manualTime": 60000
+    },
+    "EXP Issuance": {
+      "_id": "6578e4ecf0464d7fb253de58",
+      "name": "EXP Issuance",
+      "manualTime": 60000
+    },
+    "EXP Download": {
+      "_id": "657da6524e55d48baa18811b",
+      "name": "EXP Download",
+      "manualTime": 60000
+    },
+    "EXP Correction": {
+      "_id": "657da6784e55d48baa18811d",
+      "name": "EXP Correction",
+      "manualTime": 60000
+    },
+    "EXP Duplicate Reporting": {
+      "_id": "657da6a84e55d48baa18811f",
+      "name": "EXP Duplicate Reporting",
+      "manualTime": 60000
+    },
+    "Booking": {
+      "_id": "65abae9f4e635ea816139656",
+      "name": "Booking",
+      "manualTime": 60000
+    },
+    "FCR Submission": {
+      "_id": "65abaf164e635ea816139665",
+      "name": "FCR Submission",
+      "manualTime": 60000
+    },
+    "E-Invoice Create & Download": {
+      "_id": "65abb1c94e635ea8161396da",
+      "name": "E-Invoice Create & Download",
+      "manualTime": 60000
+    },
+    "EP Issuance": {
+      "_id": "65abb3734e635ea816139716",
+      "name": "EP Issuance",
+      "manualTime": 60000
+    },
+    "REX Issuance": {
+      "_id": "65c8c6f0a39c6db4bd5df5bc",
+      "name": "REX Issuance",
+      "manualTime": 60000
+    },
+    "BILL OF ENTRY": {
+      "_id": "66913a3955b203bf75405b70",
+      "name": "BILL OF ENTRY",
+      "manualTime": 60000
+    }
+}

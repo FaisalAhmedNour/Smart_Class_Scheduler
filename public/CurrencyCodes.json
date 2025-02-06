@@ -1,0 +1,282 @@
+[
+    {
+        "code": "001",
+        "name": "US DOLLAR",
+        "ios": "USD"
+    },
+    {
+        "code": "002",
+        "name": "CANADIAN DOLLAR",
+        "ios": "CAD"
+    },
+    {
+        "code": "003",
+        "name": "PHILIPPINES PESO",
+        "ios": "PHP"
+    },
+    {
+        "code": "007",
+        "name": "IRISH POUND",
+        "ios": "IMP"
+    },
+    {
+        "code": "009",
+        "name": "JORDAN DINAR",
+        "ios": "JOD"
+    },
+    {
+        "code": "010",
+        "name": "POUND STARLING",
+        "ios": "GBP"
+    },
+    {
+        "code": "011",
+        "name": "AUSTRALIAN DOLLAR",
+        "ios": "AUD"
+    },
+    {
+        "code": "012",
+        "name": "NEW ZEALAND DOLLAR",
+        "ios": "NZD"
+    },
+    {
+        "code": "013",
+        "name": "PAKISTANI RUPEE",
+        "ios": "PKR"
+    },
+    {
+        "code": "014",
+        "name": "MAYANMAR KYAT",
+        "ios": "MMK"
+    },
+    {
+        "code": "015",
+        "name": "SRI LANKA RUPEE",
+        "ios": "LKR"
+    },
+    {
+        "code": "016",
+        "name": "INDIAN RUPEE",
+        "ios": "INR"
+    },
+    {
+        "code": "017",
+        "name": "MALAYSIAN RINGGIT",
+        "ios": "MYR"
+    },
+    {
+        "code": "018",
+        "name": "HONGKONG DOLLAR",
+        "ios": "HKD"
+    },
+    {
+        "code": "019",
+        "name": "BANGLADESH TAKA",
+        "ios": "BDT"
+    },
+    {
+        "code": "020",
+        "name": "SINGAPORE DOLLAR",
+        "ios": "SGD"
+    },
+    {
+        "code": "021",
+        "name": "KENYA SHILLING",
+        "ios": "KES"
+    },
+    {
+        "code": "029",
+        "name": "ZAMBIAN KWACHA",
+        "ios": "ZMK"
+    },
+    {
+        "code": "030",
+        "name": "DANISH KRONE",
+        "ios": "DKK"
+    },
+    {
+        "code": "032",
+        "name": "NORWEGIAN KRONE",
+        "ios": "NOK"
+    },
+    {
+        "code": "033",
+        "name": "NETHERLANDS GUILDER",
+        "ios": "ANG"
+    },
+    {
+        "code": "035",
+        "name": "SWEDISH KRONA",
+        "ios": "SEK"
+    },
+    {
+        "code": "038",
+        "name": "SWISS FRANC",
+        "ios": "CHF"
+    },
+    {
+        "code": "039",
+        "name": "DEUTSCHE MARK",
+        "ios": "DEM"
+    },
+    {
+        "code": "040",
+        "name": "EGYPTIAN POUND",
+        "ios": "EGP"
+    },
+    {
+        "code": "041",
+        "name": "OMANI RIYAL",
+        "ios": "OMR"
+    },
+    {
+        "code": "042",
+        "name": "SAUDI ARABIAN RIYAL",
+        "ios": "SAR"
+    },
+    {
+        "code": "043",
+        "name": "IRANIAN RIYAL",
+        "ios": "IRR"
+    },
+    {
+        "code": "044",
+        "name": "CZECHOSLOVAKIAN KORUNA",
+        "ios": "CZK"
+    },
+    {
+        "code": "047",
+        "name": "ACU EURO",
+        "ios": "AEU"
+    },
+    {
+        "code": "050",
+        "name": "KOREAN WON(SOUTH)",
+        "ios": "KRW"
+    },
+    {
+        "code": "052",
+        "name": "BRUNEL DOLLAR",
+        "ios": "BND"
+    },
+    {
+        "code": "053",
+        "name": "YEMENI RIYAL",
+        "ios": "YER"
+    },
+    {
+        "code": "061",
+        "name": "AFGANI(AFGHANISTAN)",
+        "ios": "AFA"
+    },
+    {
+        "code": "067",
+        "name": "CHINESE RENMINBI YUAN",
+        "ios": "CNY"
+    },
+    {
+        "code": "068",
+        "name": "EHTIOPIAN BIRR",
+        "ios": "ETB"
+    },
+    {
+        "code": "071",
+        "name": "INDONESIAN RUPIAH",
+        "ios": "IDR"
+    },
+    {
+        "code": "073",
+        "name": "IRAQI DINAR",
+        "ios": "IQD"
+    },
+    {
+        "code": "074",
+        "name": "LYBIAN DINNER",
+        "ios": "LYD"
+    },
+    {
+        "code": "075",
+        "name": "JAPANESE YEN",
+        "ios": "JPY"
+    },
+    {
+        "code": "076",
+        "name": "ACU JAPANESE YEN",
+        "ios": "AYN"
+    },
+    {
+        "code": "077",
+        "name": "LEBANESE POUND",
+        "ios": "LBP"
+    },
+    {
+        "code": "078",
+        "name": "MOROCCAN DIRHAM",
+        "ios": "MAD"
+    },
+    {
+        "code": "081",
+        "name": "SYRIAN POUND",
+        "ios": "SYP"
+    },
+    {
+        "code": "084",
+        "name": "ROMANIAN LEU",
+        "ios": "RON"
+    },
+    {
+        "code": "085",
+        "name": "THAI BAHT",
+        "ios": "THB"
+    },
+    {
+        "code": "086",
+        "name": "EURO",
+        "ios": "EUR"
+    },
+    {
+        "code": "087",
+        "name": "RUSSIAN ROUBLE",
+        "ios": "RUS"
+    },
+    {
+        "code": "088",
+        "name": "NIGERIAN NAIRA",
+        "ios": "NGN"
+    },
+    {
+        "code": "090",
+        "name": "KUWAITI DINAR",
+        "ios": "KWD"
+    },
+    {
+        "code": "091",
+        "name": "NEPALESE RUPEE",
+        "ios": "NPR"
+    },
+    {
+        "code": "093",
+        "name": "QATAR RIYAL",
+        "ios": "QAR"
+    },
+    {
+        "code": "094",
+        "name": "BAHRAIN DINAR",
+        "ios": "BHD"
+    },
+    {
+        "code": "096",
+        "name": "U.A.E.DERHAM",
+        "ios": "AED"
+    },
+    {
+        "code": "097",
+        "name": "SPECIAL DRAWING RIGHT",
+        "ios": "SDR"
+    },
+    {
+        "code": "098",
+        "name": "ACU DOLLAR",
+        "ios": "ACU"
+    }
+]

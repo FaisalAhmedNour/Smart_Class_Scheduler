@@ -1,0 +1,1246 @@
+[
+    {
+        "code": "0000",
+        "name": "U.S.A.",
+        "ios": "US"
+    },
+    {
+        "code": "0101",
+        "name": "BOLIVIA",
+        "ios": "BO"
+    },
+    {
+        "code": "0102",
+        "name": "COLOMBIA",
+        "ios": "CO"
+    },
+    {
+        "code": "0103",
+        "name": "COSTA RICA",
+        "ios": "CR"
+    },
+    {
+        "code": "0105",
+        "name": "DOMINICAN REPUBLIC",
+        "ios": "DO"
+    },
+    {
+        "code": "0106",
+        "name": "EQUADOR",
+        "ios": "EC"
+    },
+    {
+        "code": "0107",
+        "name": "GUATEMALA",
+        "ios": "GT"
+    },
+    {
+        "code": "0108",
+        "name": "HAITI",
+        "ios": "HT"
+    },
+    {
+        "code": "0109",
+        "name": "HONDURAS",
+        "ios": "HN"
+    },
+    {
+        "code": "0110",
+        "name": "MEXICO",
+        "ios": "MX"
+    },
+    {
+        "code": "0111",
+        "name": "NICARAGUA",
+        "ios": "NI"
+    },
+    {
+        "code": "0112",
+        "name": "PANAMA",
+        "ios": "PA"
+    },
+    {
+        "code": "0114",
+        "name": "EL - SALVADOR",
+        "ios": "SV"
+    },
+    {
+        "code": "0115",
+        "name": "VENEZUELA",
+        "ios": "VE"
+    },
+    {
+        "code": "0116",
+        "name": "ARGENTINA",
+        "ios": "AR"
+    },
+    {
+        "code": "0117",
+        "name": "BRAZIL",
+        "ios": "BR"
+    },
+    {
+        "code": "0118",
+        "name": "CHILE",
+        "ios": "CL"
+    },
+    {
+        "code": "0119",
+        "name": "PARAGUAY",
+        "ios": "PY"
+    },
+    {
+        "code": "0120",
+        "name": "PERU",
+        "ios": "PE"
+    },
+    {
+        "code": "0121",
+        "name": "URUGUAY",
+        "ios": "UY"
+    },
+    {
+        "code": "0122",
+        "name": "ANTIGUA AND BARBUDA",
+        "ios": "AG"
+    },
+    {
+        "code": "0123",
+        "name": "ANTILLES NETHERLANDS",
+        "ios": "AN"
+    },
+    {
+        "code": "0124",
+        "name": "BAHAMAS",
+        "ios": "BS"
+    },
+    {
+        "code": "0125",
+        "name": "BARBADOS",
+        "ios": "BB"
+    },
+    {
+        "code": "0126",
+        "name": "BELIZE",
+        "ios": "BZ"
+    },
+    {
+        "code": "0127",
+        "name": "BERMUDA",
+        "ios": "BM"
+    },
+    {
+        "code": "0129",
+        "name": "DOMINICA",
+        "ios": "DM"
+    },
+    {
+        "code": "0130",
+        "name": "GREENLAND",
+        "ios": "GL"
+    },
+    {
+        "code": "0131",
+        "name": "GRENADA",
+        "ios": "GD"
+    },
+    {
+        "code": "0132",
+        "name": "GUADELOUPE",
+        "ios": "GP"
+    },
+    {
+        "code": "0133",
+        "name": "GUIANA, FRENCH",
+        "ios": "GF"
+    },
+    {
+        "code": "0134",
+        "name": "GUYANA",
+        "ios": "GY"
+    },
+    {
+        "code": "0135",
+        "name": "JAMAICA",
+        "ios": "JM"
+    },
+    {
+        "code": "0136",
+        "name": "MARTINIQUE",
+        "ios": "MQ"
+    },
+    {
+        "code": "0137",
+        "name": "MONTSERRAT",
+        "ios": "MS"
+    },
+    {
+        "code": "0138",
+        "name": "FALKLAND ISLANDS",
+        "ios": "FK"
+    },
+    {
+        "code": "0139",
+        "name": "ST.KITTS - NEVIS - ANGUILLA",
+        "ios": "KN"
+    },
+    {
+        "code": "0140",
+        "name": "ST.LUCIA",
+        "ios": "LC"
+    },
+    {
+        "code": "0141",
+        "name": "ST.PIERRE & MIQUELON",
+        "ios": "PM"
+    },
+    {
+        "code": "0142",
+        "name": "ST.VINCENT",
+        "ios": "VC"
+    },
+    {
+        "code": "0143",
+        "name": "SURINAM",
+        "ios": "SR"
+    },
+    {
+        "code": "0144",
+        "name": "TRINIDAD & TOBAGO",
+        "ios": "TT"
+    },
+    {
+        "code": "0145",
+        "name": "U.S.VIRGIN ISLANDS",
+        "ios": "VI"
+    },
+    {
+        "code": "0146",
+        "name": "WEST INDIES N.I.E.",
+        "ios": "WN"
+    },
+    {
+        "code": "0148",
+        "name": "ANGUILLA",
+        "ios": "AI"
+    },
+    {
+        "code": "0149",
+        "name": "ARUBA",
+        "ios": "AW"
+    },
+    {
+        "code": "0152",
+        "name": "SAINT MARTIN(FRENCH PART)",
+        "ios": "SX"
+    },
+    {
+        "code": "0153",
+        "name": "TURKS AND CAICOS ISLANDS",
+        "ios": "TC"
+    },
+    {
+        "code": "0200",
+        "name": "CANADA",
+        "ios": "CA"
+    },
+    {
+        "code": "0300",
+        "name": "CUBA",
+        "ios": "CU"
+    },
+    {
+        "code": "1100",
+        "name": "INDIA",
+        "ios": "IN"
+    },
+    {
+        "code": "1201",
+        "name": "PAKISTAN",
+        "ios": "PK"
+    },
+    {
+        "code": "1202",
+        "name": "SRI-LANKA",
+        "ios": "LK"
+    },
+    {
+        "code": "1203",
+        "name": "BRUNEI",
+        "ios": "BN"
+    },
+    {
+        "code": "1204",
+        "name": "HONGKONG",
+        "ios": "HK"
+    },
+    {
+        "code": "1205",
+        "name": "MALAYSIA",
+        "ios": "MY"
+    },
+    {
+        "code": "1206",
+        "name": "SINGAPORE",
+        "ios": "SG"
+    },
+    {
+        "code": "1211",
+        "name": "JORDAN",
+        "ios": "JO"
+    },
+    {
+        "code": "1212",
+        "name": "PALESTINIAN TERRITORY,OCCUPIED",
+        "ios": "PSE"
+    },
+    {
+        "code": "1213",
+        "name": "YEMEN",
+        "ios": "YE"
+    },
+    {
+        "code": "1214",
+        "name": "BAHRAIN",
+        "ios": "BH"
+    },
+    {
+        "code": "1215",
+        "name": "KUWAIT",
+        "ios": "KW"
+    },
+    {
+        "code": "1216",
+        "name": "QATAR",
+        "ios": "QA"
+    },
+    {
+        "code": "1218",
+        "name": "OMAN",
+        "ios": "OM"
+    },
+    {
+        "code": "1219",
+        "name": "U.A.E.",
+        "ios": "AE"
+    },
+    {
+        "code": "1220",
+        "name": "AFGHANISTAN",
+        "ios": "AF"
+    },
+    {
+        "code": "1221",
+        "name": "AMERICAN SAMOA",
+        "ios": "AS"
+    },
+    {
+        "code": "1222",
+        "name": "AUSTRALIA",
+        "ios": "AU"
+    },
+    {
+        "code": "1223",
+        "name": "NEW ZEALAND",
+        "ios": "NZ"
+    },
+    {
+        "code": "1224",
+        "name": "CAYMAN ISLANDS",
+        "ios": "KY"
+    },
+    {
+        "code": "1225",
+        "name": "MARSHALL ISLANDS",
+        "ios": "MH"
+    },
+    {
+        "code": "1226",
+        "name": "INDONESIA",
+        "ios": "ID"
+    },
+    {
+        "code": "1227",
+        "name": "IRAN",
+        "ios": "IR"
+    },
+    {
+        "code": "1228",
+        "name": "IRAQ",
+        "ios": "IQ"
+    },
+    {
+        "code": "1229",
+        "name": "JAPAN",
+        "ios": "JP"
+    },
+    {
+        "code": "1230",
+        "name": "KIRIBATI, REPUBLIC OF",
+        "ios": "KI"
+    },
+    {
+        "code": "1232",
+        "name": "KOREA, REPUBLIC OF",
+        "ios": "KR"
+    },
+    {
+        "code": "1234",
+        "name": "LEBANON",
+        "ios": "LB"
+    },
+    {
+        "code": "1235",
+        "name": "MACAO",
+        "ios": "MO"
+    },
+    {
+        "code": "1237",
+        "name": "NAURU",
+        "ios": "NR"
+    },
+    {
+        "code": "1238",
+        "name": "NEPAL",
+        "ios": "NP"
+    },
+    {
+        "code": "1239",
+        "name": "NEW CALEDONIA",
+        "ios": "NC"
+    },
+    {
+        "code": "1240",
+        "name": "PHILIPPINES",
+        "ios": "PH"
+    },
+    {
+        "code": "1241",
+        "name": "SAUDI ARABIA",
+        "ios": "SA"
+    },
+    {
+        "code": "1242",
+        "name": "SYRIAN ARAB REPUBLIC",
+        "ios": "SY"
+    },
+    {
+        "code": "1244",
+        "name": "NORFOLK ISLANDS",
+        "ios": "NF"
+    },
+    {
+        "code": "1245",
+        "name": "PAPUA NEW GUINEA",
+        "ios": "PG"
+    },
+    {
+        "code": "1247",
+        "name": "THAILAND",
+        "ios": "TH"
+    },
+    {
+        "code": "1249",
+        "name": "WESTERN SAMOA",
+        "ios": "WS"
+    },
+    {
+        "code": "1250",
+        "name": "TONGA",
+        "ios": "TO"
+    },
+    {
+        "code": "1251",
+        "name": "TUVALU",
+        "ios": "TV"
+    },
+    {
+        "code": "1252",
+        "name": "VANUATU (NEW HEBRIDGES)",	
+        "ios": "VU"
+    },
+    {
+        "code": "1253",
+        "name": "FRENCH POLYNESIA",
+        "ios": "PF"
+    },
+    {
+        "code": "1255",
+        "name": "GUAM",
+        "ios": "GU"
+    },
+    {
+        "code": "1256",
+        "name": "SOLOMON ISLANDS",
+        "ios": "SB"
+    },
+    {
+        "code": "1260",
+        "name": "BHUTAN",
+        "ios": "BT"
+    },
+    {
+        "code": "1261",
+        "name": "MYANMAR",
+        "ios": "MM"
+    },
+    {
+        "code": "1263",
+        "name": "FIJI (INCLUDING PITCAIRN)",	
+        "ios": "FJ"
+    },
+    {
+        "code": "1265",
+        "name": "MALDIVES",
+        "ios": "MV"
+    },
+    {
+        "code": "1266",
+        "name": "MICRONESIA,FEDERATED STATES OF",
+        "ios": "FM"
+    },
+    {
+        "code": "1269",
+        "name": "PALAU",
+        "ios": "PW"
+    },
+    {
+        "code": "1301",
+        "name": "CHINA",
+        "ios": "CN"
+    },
+    {
+        "code": "1302",
+        "name": "CAMBODIA",
+        "ios": "KH"
+    },
+    {
+        "code": "1303",
+        "name": "KOREA, D.P.R.",	
+        "ios": "KP"
+    },
+    {
+        "code": "1304",
+        "name": "LAOS P.D. REPUBLIC OF",
+        "ios": "LA"
+    },
+    {
+        "code": "1305",
+        "name": "MONGOLIAN REPUBLIC",
+        "ios": "MN"
+    },
+    {
+        "code": "1306",
+        "name": "VIETNAM",
+        "ios": "VN"
+    },
+    {
+        "code": "1308",
+        "name": "UZBEKISTAN",
+        "ios": "UZ"
+    },
+    {
+        "code": "1309",
+        "name": "KAZAKHASTAN",
+        "ios": "KZ"
+    },
+    {
+        "code": "1310",
+        "name": "TAZIKISTAN",
+        "ios": "TJ"
+    },
+    {
+        "code": "1311",
+        "name": "TURKMENISTAN",
+        "ios": "TM"
+    },
+    {
+        "code": "1312",
+        "name": "AZERBIJAN",
+        "ios": "AZ"
+    },
+    {
+        "code": "1313",
+        "name": "KYRGYZSTAN",
+        "ios": "KG"
+    },
+    {
+        "code": "1314",
+        "name": "ARMENIA",
+        "ios": "AM"
+    },
+    {
+        "code": "2000",
+        "name": "U.K.",	
+        "ios": "GB"
+    },
+    {
+        "code": "2001",
+        "name": "AUSTRIA",
+        "ios": "AT"
+    },
+    {
+        "code": "2002",
+        "name": "BELGIUM",
+        "ios": "BE"
+    },
+    {
+        "code": "2003",
+        "name": "DENMARK",
+        "ios": "DK"
+    },
+    {
+        "code": "2004",
+        "name": "GERMANY",
+        "ios": "DE"
+    },
+    {
+        "code": "2005",
+        "name": "FRANCE",
+        "ios": "FR"
+    },
+    {
+        "code": "2006",
+        "name": "VATICAN CITY (Holy See)",	
+        "ios": "VA"
+    },
+    {
+        "code": "2007",
+        "name": "GREECE",
+        "ios": "GR"
+    },
+    {
+        "code": "2008",
+        "name": "ITALY",
+        "ios": "IT"
+    },
+    {
+        "code": "2009",
+        "name": "LUXEMBOURG",
+        "ios": "LU"
+    },
+    {
+        "code": "2010",
+        "name": "NETHERLANDS",
+        "ios": "NL"
+    },
+    {
+        "code": "2011",
+        "name": "NORWAY",
+        "ios": "NO"
+    },
+    {
+        "code": "2012",
+        "name": "PORTUGAL",
+        "ios": "PT"
+    },
+    {
+        "code": "2013",
+        "name": "SWEDEN",
+        "ios": "SE"
+    },
+    {
+        "code": "2014",
+        "name": "SWITZERLAND",
+        "ios": "CH"
+    },
+    {
+        "code": "2015",
+        "name": "TURKEY",
+        "ios": "TR"
+    },
+    {
+        "code": "2016",
+        "name": "SPAIN",
+        "ios": "ES"
+    },
+    {
+        "code": "2017",
+        "name": "CYPRUS",
+        "ios": "CY"
+    },
+    {
+        "code": "2018",
+        "name": "GIBRALTAR",
+        "ios": "GI"
+    },
+    {
+        "code": "2019",
+        "name": "ICELAND",
+        "ios": "IS"
+    },
+    {
+        "code": "2020",
+        "name": "IRELAND",
+        "ios": "IE"
+    },
+    {
+        "code": "2021",
+        "name": "MALTA",
+        "ios": "MT"
+    },
+    {
+        "code": "2023",
+        "name": "FAEROE ISLANDS",
+        "ios": "FO"
+    },
+    {
+        "code": "2024",
+        "name": "ANDORRA",
+        "ios": "AD"
+    },
+    {
+        "code": "2025",
+        "name": "BRITISH VIRGIN ISLAND",
+        "ios": "BV"
+    },
+    {
+        "code": "2026",
+        "name": "MACEDONIA",
+        "ios": "MK"
+    },
+    {
+        "code": "2027",
+        "name": "MONTENEGRO",
+        "ios": "ME"
+    },
+    {
+        "code": "2028",
+        "name": "SAN MARINO",
+        "ios": "SM"
+    },
+    {
+        "code": "2029",
+        "name": "LIECHTENSTEIN",
+        "ios": "LI"
+    },
+    {
+        "code": "2030",
+        "name": "MONACO",
+        "ios": "MC"
+    },
+    {
+        "code": "2031",
+        "name": "GUERNSEY",
+        "ios": "GG"
+    },
+    {
+        "code": "2032",
+        "name": "ISLE OF MAN",
+        "ios": "IM"
+    },
+    {
+        "code": "2033",
+        "name": "JERSEY",
+        "ios": "JE"
+    },
+    {
+        "code": "2034",
+        "name": "SCOTLAND",
+        "ios": "G1"
+    },
+    {
+        "code": "2100",
+        "name": "ALBANIA",
+        "ios": "AL"
+    },
+    {
+        "code": "2101",
+        "name": "BULGARIA",
+        "ios": "BG"
+    },
+    {
+        "code": "2102",
+        "name": "CZECH REPUBLIC",
+        "ios": "CZ"
+    },
+    {
+        "code": "2104",
+        "name": "BURKINA FASO",
+        "ios": "BF"
+    },
+    {
+        "code": "2105",
+        "name": "FINLAND",
+        "ios": "FI"
+    },
+    {
+        "code": "2106",
+        "name": "HUNGARY",
+        "ios": "HU"
+    },
+    {
+        "code": "2109",
+        "name": "POLAND",
+        "ios": "PL"
+    },
+    {
+        "code": "2110",
+        "name": "ROMANIA",
+        "ios": "RO"
+    },
+    {
+        "code": "2111",
+        "name": "Serbia and Montenegro",
+        "ios": "RS"
+    },
+    {
+        "code": "2112",
+        "name": "RUSSIA",
+        "ios": "RU"
+    },
+    {
+        "code": "2113",
+        "name": "UKRAINE",
+        "ios": "UA"
+    },
+    {
+        "code": "2114",
+        "name": "BELARUS",
+        "ios": "BY"
+    },
+    {
+        "code": "2115",
+        "name": "GEORGIA",
+        "ios": "GE"
+    },
+    {
+        "code": "2116",
+        "name": "MOLDOVA, REPUBLIC OF",
+        "ios": "MD"
+    },
+    {
+        "code": "2117",
+        "name": "LITHUANIA",
+        "ios": "LT"
+    },
+    {
+        "code": "2119",
+        "name": "LATVIA",
+        "ios": "LV"
+    },
+    {
+        "code": "2120",
+        "name": "ESTONIA",
+        "ios": "EE"
+    },
+    {
+        "code": "2121",
+        "name": "CROATIA",
+        "ios": "HR"
+    },
+    {
+        "code": "2122",
+        "name": "SLOVENIA",
+        "ios": "SI"
+    },
+    {
+        "code": "2123",
+        "name": "BOSNIA-HERZEGOVINA",
+        "ios": "BA"
+    },
+    {
+        "code": "2124",
+        "name": "SLOVAK REPUBLIC",
+        "ios": "SK"
+    },
+    {
+        "code": "2125",
+        "name": "KOSOVO",
+        "ios": "XK"
+    },
+    {
+        "code": "2126",
+        "name": "EAST TIMOR",
+        "ios": "TL"
+    },
+    {
+        "code": "2501",
+        "name": "ALGERIA",
+        "ios": "DZ"
+    },
+    {
+        "code": "2502",
+        "name": "BOTSWANA",
+        "ios": "BW"
+    },
+    {
+        "code": "2503",
+        "name": "CAPE VERDE",
+        "ios": "CV"
+    },
+    {
+        "code": "2504",
+        "name": "DJIBOUTI",
+        "ios": "DJ"
+    },
+    {
+        "code": "2505",
+        "name": "EGYPT",
+        "ios": "EG"
+    },
+    {
+        "code": "2506",
+        "name": "BURUNDI",
+        "ios": "BI"
+    },
+    {
+        "code": "2507",
+        "name": "CAMEROON",
+        "ios": "CM"
+    },
+    {
+        "code": "2508",
+        "name": "CHAD",
+        "ios": "TD"
+    },
+    {
+        "code": "2509",
+        "name": "COMOROS (COMORO ISLANDS)",	
+        "ios": "KM"
+    },
+    {
+        "code": "2512",
+        "name": "BENIN",
+        "ios": "BJ"
+    },
+    {
+        "code": "2514",
+        "name": "GABON",
+        "ios": "GA"
+    },
+    {
+        "code": "2517",
+        "name": "GUINEA",
+        "ios": "GN"
+    },
+    {
+        "code": "2518",
+        "name": "IVORY COAST",
+        "ios": "CI"
+    },
+    {
+        "code": "2519",
+        "name": "MALI",
+        "ios": "ML"
+    },
+    {
+        "code": "2520",
+        "name": "EQUATORIAL GUINEA",
+        "ios": "GQ"
+    },
+    {
+        "code": "2521",
+        "name": "ETHIOPIA",
+        "ios": "ET"
+    },
+    {
+        "code": "2522",
+        "name": "GAMBIA",
+        "ios": "GM"
+    },
+    {
+        "code": "2523",
+        "name": "GHANA",
+        "ios": "GH"
+    },
+    {
+        "code": "2524",
+        "name": "MAURITANIA",
+        "ios": "MR"
+    },
+    {
+        "code": "2525",
+        "name": "NIGER",
+        "ios": "NE"
+    },
+    {
+        "code": "2526",
+        "name": "REUNION",
+        "ios": "RE"
+    },
+    {
+        "code": "2527",
+        "name": "SENEGAL",
+        "ios": "SN"
+    },
+    {
+        "code": "2528",
+        "name": "TOGO",
+        "ios": "TG"
+    },
+    {
+        "code": "2529",
+        "name": "CONGO",
+        "ios": "CG"
+    },
+    {
+        "code": "2531",
+        "name": "LIBERIA",
+        "ios": "LR"
+    },
+    {
+        "code": "2535",
+        "name": "CENTRAL AFRICAN REPUBLIC",
+        "ios": "CF"
+    },
+    {
+        "code": "2536",
+        "name": "GUINEA-BISSAU",
+        "ios": "GW"
+    },
+    {
+        "code": "2537",
+        "name": "KENYA",
+        "ios": "KE"
+    },
+    {
+        "code": "2538",
+        "name": "LESOTHO",
+        "ios": "LS"
+    },
+    {
+        "code": "2539",
+        "name": "LIBYA (ARAB JAMHIRIA)",	
+        "ios": "LY"
+    },
+    {
+        "code": "2540",
+        "name": "MADAGASCAR",
+        "ios": "MG"
+    },
+    {
+        "code": "2541",
+        "name": "MALAWI",
+        "ios": "MW"
+    },
+    {
+        "code": "2542",
+        "name": "MAURITIUS",
+        "ios": "MU"
+    },
+    {
+        "code": "2543",
+        "name": "MOROCCO",
+        "ios": "MA"
+    },
+    {
+        "code": "2544",
+        "name": "NIGERIA",
+        "ios": "NG"
+    },
+    {
+        "code": "2545",
+        "name": "ST. HELENA",
+        "ios": "SH"
+    },
+    {
+        "code": "2546",
+        "name": "SEYCHELLES",
+        "ios": "SC"
+    },
+    {
+        "code": "2547",
+        "name": "SIERRA LEONE",
+        "ios": "SL"
+    },
+    {
+        "code": "2548",
+        "name": "SOMALIA",
+        "ios": "SO"
+    },
+    {
+        "code": "2549",
+        "name": "SUDAN",
+        "ios": "SD"
+    },
+    {
+        "code": "2550",
+        "name": "SWAZILAND",
+        "ios": "SZ"
+    },
+    {
+        "code": "2551",
+        "name": "TANZANIA",
+        "ios": "TZ"
+    },
+    {
+        "code": "2552",
+        "name": "TUNISIA",
+        "ios": "TN"
+    },
+    {
+        "code": "2553",
+        "name": "UGANDA",
+        "ios": "UG"
+    },
+    {
+        "code": "2554",
+        "name": "ANGOLA",
+        "ios": "AO"
+    },
+    {
+        "code": "2555",
+        "name": "MOZAMBIQUE",
+        "ios": "MZ"
+    },
+    {
+        "code": "2557",
+        "name": "ZAMBIA",
+        "ios": "ZM"
+    },
+    {
+        "code": "2558",
+        "name": "ZIMBABWE",
+        "ios": "ZW"
+    },
+    {
+        "code": "2559",
+        "name": "SAO TOME & PRINCIPE",
+        "ios": "ST"
+    },
+    {
+        "code": "2560",
+        "name": "NAMIBIA",
+        "ios": "NA"
+    },
+    {
+        "code": "2561",
+        "name": "RWANDA",
+        "ios": "RW"
+    },
+    {
+        "code": "2565",
+        "name": "TAIWAN",
+        "ios": "TW"
+    },
+    {
+        "code": "2570",
+        "name": "SOUTH AFRICA",
+        "ios": "ZA"
+    },
+    {
+        "code": "2571",
+        "name": "WESTERN SAHARA",
+        "ios": "EH"
+    },
+    {
+        "code": "2572",
+        "name": "SOUTH SUDAN",
+        "ios": "SS"
+    },
+    {
+        "code": "2604",
+        "name": "BRITISH INDIAN OCEAN TERRITORY",
+        "ios": "IO"
+    },
+    {
+        "code": "2606",
+        "name": "MAYOTTE",
+        "ios": "YT"
+    },
+    {
+        "code": "2708",
+        "name": "INT. BODIES (EU)",	
+        "ios": "EU"
+    },
+    {
+        "code": "2742",
+        "name": "INT. BODIES (IDB)",	
+        "ios": "IDB"
+    },
+    {
+        "code": "2746",
+        "name": "INT. BODIES (IFC)",	
+        "ios": "IF"
+    },
+    {
+        "code": "2766",
+        "name": "INT. BODIES (UNICEF)",	
+        "ios": "UCF"
+    },
+    {
+        "code": "2799",
+        "name": "INT. BODIES N.I.E.",	"ios": "NIE"
+    },
+    {
+        "code": "3001",
+        "name": "ERITRIA",
+        "ios": "ER"
+    },
+    {
+        "code": "3005",
+        "name": "PUERTO RICO",
+        "ios": "PR"
+    },
+    {
+        "code": "4797",
+        "name": "CURACAO",
+        "ios": "CW"
+    },
+    {
+        "code": "9901",
+        "name": "EPZ-Korean",
+        "ios": "E01"
+    },
+    {
+        "code": "9980",
+        "name": "EPZ-Dhaka",
+        "ios": "E20"
+    },
+    {
+        "code": "9981",
+        "name": "EPZ-Chittagong",
+        "ios": "E10"
+    },
+    {
+        "code": "9982",
+        "name": "EPZ-Adamjee",
+        "ios": "E30"
+    },
+    {
+        "code": "9983",
+        "name": "EPZ-Comilla",
+        "ios": "E40"
+    },
+    {
+        "code": "9984",
+        "name": "EPZ-Ishwardi",
+        "ios": "E50"
+    },
+    {
+        "code": "9985",
+        "name": "EPZ-Karnafuli",
+        "ios": "E60"
+    },
+    {
+        "code": "9987",
+        "name": "EPZ-Uttara",
+        "ios": "E70"
+    },
+    {
+        "code": "9988",
+        "name": "EPZ-Mongla",
+        "ios": "E80"
+    },
+    {
+        "code": "9989",
+        "name": "Special Economic Zone(SEZ)-Proposed",
+        "ios": "E89"
+    },
+    {
+        "code": "9990",
+        "name": "BEPZA EZ-1, Mirsarai",
+        "ios": "E90"
+    },
+    {
+        "code": "9991",
+        "name": "EZ, Mirsarai",
+        "ios": "E91"
+    },
+    {
+        "code": "9999",
+        "name": "BANGLADESH",
+        "ios": "BD"
+    }
+]

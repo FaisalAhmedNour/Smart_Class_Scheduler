@@ -1,0 +1,26 @@
+[
+    {
+        "code": "1",
+        "desc": "SWIFT / Cable Charges"
+    },
+    {
+        "code": "2",
+        "desc": "Discrepancy Charges"
+    },
+    {
+        "code": "3",
+        "desc": "Reimbursement / Payment Charges"
+    },
+    {
+        "code": "4",
+        "desc": "Postal / Courier Charges"
+    },
+    {
+        "code": "5",
+        "desc": "LC Amendment Charges"
+    },
+    {
+        "code": "6",
+        "desc": "Export Bill acceptance fee"
+    }
+]

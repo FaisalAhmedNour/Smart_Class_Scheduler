@@ -1,0 +1,90 @@
+[
+    {
+        "termId": "3", 
+        "name": "EXW",
+        "Description":"Ex Works",
+        "forFreight":"Always Zero",
+        "forInsurance":"Always Zero",
+        "forOtherCharges":"Always Zero"
+    },
+    {
+        "termId": "4", 
+        "name": "FCA",
+        "Description":"Free Carrier",
+        "forFreight":"Always Zero",
+        "forInsurance":"Always Zero",
+        "forOtherCharges":"Always Zero"
+    },
+    {
+        "termId": "5", 
+        "name": "FAS",
+        "Description":"Free Alongside Ship",
+        "forFreight":"Always Zero",
+        "forInsurance":"Always Zero",
+        "forOtherCharges":"Always Zero"
+    },
+    {
+        "termId": "6", 
+        "name": "FOB",
+        "Description":"Free On Board",
+        "forFreight":"Always Zero",
+        "forInsurance":"Always Zero",
+        "forOtherCharges":"Optional"
+    },
+    {
+        "termId": "7", 
+        "name": "CNF(CFR)",
+        "Description":"Cost and Freight",
+        "forFreight":"Required",
+        "forInsurance":"Always Zero",
+        "forOtherCharges":"Optional"
+    },
+    {
+        "termId": "8", 
+        "name": "CIF",
+        "Description":"Cost, Insurance and Freight",
+        "forFreight":"Required",
+        "forInsurance":"Required",
+        "forOtherCharges":"Optional"
+    },
+    {
+        "termId": "9", 
+        "name": "CPT",
+        "Description":"Carriage Paid To",
+        "forFreight":"Required",
+        "forInsurance":"Always Zero",
+        "forOtherCharges":"Optional"
+    },
+    {
+        "termId": "10", 
+        "name": "CIP",
+        "Description":"'Carriage & Insurance Paid",
+        "forFreight":"Required",
+        "forInsurance":"Required",
+        "forOtherCharges":"Optional"
+    },
+    {
+        "termId": "11", 
+        "name": "DDP",
+        "Description":"Delivered Duty Paid",
+        "forFreight":"Required",
+        "forInsurance":"Required",
+        "forOtherCharges":"Required"
+    },
+    {
+        "termId": "12", 
+        "name": "DAT(DEQ)",
+        "Description":"Delivered At Terminal",
+        "forFreight":"Optional",
+        "forInsurance":"Optional",
+        "forOtherCharges":"Optional"
+    },
+    {
+        "termId": "13", 
+        "name": "DAP(DAF, DES, DDU)",
+        "Description":"Delivered At Place",
+        "forFreight":"Required",
+        "forInsurance":"Required",
+        "forOtherCharges":"Required"
+    }
+]

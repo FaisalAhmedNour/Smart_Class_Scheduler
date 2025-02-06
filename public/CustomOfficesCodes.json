@@ -1,0 +1,574 @@
+[
+    {
+        "code": "100",
+        "name": "National Board of Revenue"
+    },
+    {
+        "code": "101",
+        "name": "Dhaka Customs House"
+    },
+    {
+        "code": "102",
+        "name": "ICD, Kamalapur"
+    },
+    {
+        "code": "103",
+        "name": "Foreign Post, Dhaka"
+    },
+    {
+        "code": "201",
+        "name": "Burimari"
+    },
+    {
+        "code": "202",
+        "name": "Biral"
+    },
+    {
+        "code": "203",
+        "name": "Chilmari"
+    },
+    {
+        "code": "204",
+        "name": "Rohanpur"
+    },
+    {
+        "code": "205",
+        "name": "Shonamosjid"
+    },
+    {
+        "code": "206",
+        "name": "Hili"
+    },
+    {
+        "code": "207",
+        "name": "Pakshi"
+    },
+    {
+        "code": "208",
+        "name": "Shibgonj"
+    },
+    {
+        "code": "209",
+        "name": "Needpur"
+    },
+    {
+        "code": "210",
+        "name": "Premtoli"
+    },
+    {
+        "code": "211",
+        "name": "Dhamor Hat"
+    },
+    {
+        "code": "212",
+        "name": "Rajshahi"
+    },
+    {
+        "code": "213",
+        "name": "Sirajgonj"
+    },
+    {
+        "code": "214",
+        "name": "Iswardi"
+    },
+    {
+        "code": "215",
+        "name": "Bogra"
+    },
+    {
+        "code": "216",
+        "name": "Shantahar"
+    },
+    {
+        "code": "217",
+        "name": "Dinajpur"
+    },
+    {
+        "code": "218",
+        "name": "Nekmard"
+    },
+    {
+        "code": "219",
+        "name": "Noonkhawa"
+    },
+    {
+        "code": "220",
+        "name": "Roumari"
+    },
+    {
+        "code": "221",
+        "name": "Nilfamari"
+    },
+    {
+        "code": "222",
+        "name": "Moghal Hat"
+    },
+    {
+        "code": "223",
+        "name": "Kurigram"
+    },
+    {
+        "code": "224",
+        "name": "Gaibandha"
+    },
+    {
+        "code": "225",
+        "name": "Chilahati"
+    },
+    {
+        "code": "226",
+        "name": "Rangpur"
+    },
+    {
+        "code": "227",
+        "name": "Amnura Railway Station"
+    },
+    {
+        "code": "228",
+        "name": "Bangla Banda"
+    },
+    {
+        "code": "229",
+        "name": "Boragram"
+    },
+    {
+        "code": "230",
+        "name": "Tetulia"
+    },
+    {
+        "code": "231",
+        "name": "Amarkhana"
+    },
+    {
+        "code": "232",
+        "name": "Ghogna"
+    },
+    {
+        "code": "233",
+        "name": "Jalpaitali"
+    },
+    {
+        "code": "234",
+        "name": "Karia"
+    },
+    {
+        "code": "235",
+        "name": "Bhutiapara"
+    },
+    {
+        "code": "236",
+        "name": "Chakchandi"
+    },
+    {
+        "code": "237",
+        "name": "Bholahat"
+    },
+    {
+        "code": "238",
+        "name": "Majhardia"
+    },
+    {
+        "code": "239",
+        "name": "Sonahat LC Station"
+    },
+    {
+        "code": "301",
+        "name": "Custom House, Chattogram"
+    },
+    {
+        "code": "302",
+        "name": "Chattogram Foreign Post"
+    },
+    {
+        "code": "303",
+        "name": "Chattogram EPZ"
+    },
+    {
+        "code": "304",
+        "name": "Air Freight Unit, CCH, Chattogram"
+    },
+    {
+        "code": "341",
+        "name": "BM Energy Ltd"
+    },
+    {
+        "code": "342",
+        "name": "JMI Ind Gas Ltd"
+    },
+    {
+        "code": "343",
+        "name": "Unitex LP Gas"
+    },
+    {
+        "code": "344",
+        "name": "Premier LP Gas"
+    },
+    {
+        "code": "351",
+        "name": "Cox's Bazar"
+    },
+    {
+        "code": "352",
+        "name": "Teknaf"
+    },
+    {
+        "code": "353",
+        "name": "Ukhia Ghat"
+    },
+    {
+        "code": "354",
+        "name": "Hnila"
+    },
+    {
+        "code": "355",
+        "name": "Akhaura"
+    },
+    {
+        "code": "356",
+        "name": "Bibir Bazar"
+    },
+    {
+        "code": "357",
+        "name": "Chandpur"
+    },
+    {
+        "code": "358",
+        "name": "Ramgar"
+    },
+    {
+        "code": "359",
+        "name": "Shuvapur"
+    },
+    {
+        "code": "360",
+        "name": "Belonia"
+    },
+    {
+        "code": "361",
+        "name": "Chattogram"
+    },
+    {
+        "code": "362",
+        "name": "Ashugonj"
+    },
+    {
+        "code": "363",
+        "name": "Tegamukh"
+    },
+    {
+        "code": "364",
+        "name": "Chowmuhani"
+    },
+    {
+        "code": "365",
+        "name": "Comilla"
+    },
+    {
+        "code": "366",
+        "name": "Soldier Bazar"
+    },
+    {
+        "code": "367",
+        "name": "Patra Route"
+    },
+    {
+        "code": "368",
+        "name": "Mohammad Ali"
+    },
+    {
+        "code": "369",
+        "name": "Ristamuk"
+    },
+    {
+        "code": "370",
+        "name": "Satiram Nagar"
+    },
+    {
+        "code": "371",
+        "name": "Noabadi"
+    },
+    {
+        "code": "372",
+        "name": "Chiora"
+    },
+    {
+        "code": "373",
+        "name": "Miar Bazar"
+    },
+    {
+        "code": "374",
+        "name": "Gonga Sagar(Kali Bazar"
+    },
+    {
+        "code": "375",
+        "name": "Kasba"
+    },
+    {
+        "code": "376",
+        "name": "Salda Nadi"
+    },
+    {
+        "code": "377",
+        "name": "Chinakandi"
+    },
+    {
+        "code": "378",
+        "name": "Amoratali"
+    },
+    {
+        "code": "379",
+        "name": "Bagan Bazar"
+    },
+    {
+        "code": "380",
+        "name": "Tabalchari Bazar"
+    },
+    {
+        "code": "381",
+        "name": "Comilla EPZ"
+    },
+    {
+        "code": "382",
+        "name": "Nodalia LC Station"
+    },
+    {
+        "code": "383",
+        "name": "Sonai sari LC Station"
+    },
+    {
+        "code": "384",
+        "name": "Olipur LC Station"
+    },
+    {
+        "code": "401",
+        "name": "Sylhet"
+    },
+    {
+        "code": "402",
+        "name": "Tamabil"
+    },
+    {
+        "code": "403",
+        "name": "Foreign Post, Sylhet"
+    },
+    {
+        "code": "404",
+        "name": "Bolla"
+    },
+    {
+        "code": "405",
+        "name": "Chatalapur"
+    },
+    {
+        "code": "406",
+        "name": "Latitila"
+    },
+    {
+        "code": "407",
+        "name": "Shaola"
+    },
+    {
+        "code": "408",
+        "name": "Zakigonj"
+    },
+    {
+        "code": "409",
+        "name": "Teliapara"
+    },
+    {
+        "code": "410",
+        "name": "Chhatak"
+    },
+    {
+        "code": "411",
+        "name": "Tahirpur"
+    },
+    {
+        "code": "412",
+        "name": "Betuli(Fultala)"
+    },
+    {
+        "code": "413",
+        "name": "Dora Bazar"
+    },
+    {
+        "code": "414",
+        "name": "Chela"
+    },
+    {
+        "code": "415",
+        "name": "Latu"
+    },
+    {
+        "code": "416",
+        "name": "Fenchugonj"
+    },
+    {
+        "code": "417",
+        "name": "Sylhet Air Port Customs Station"
+    },
+    {
+        "code": "418",
+        "name": "Beliaghata"
+    },
+    {
+        "code": "419",
+        "name": "Lubachera"
+    },
+    {
+        "code": "420",
+        "name": "Sengrampungi"
+    },
+    {
+        "code": "421",
+        "name": "Gojkata"
+    },
+    {
+        "code": "423",
+        "name": "Laxmi Bazar"
+    },
+    {
+        "code": "424",
+        "name": "Sarupara"
+    },
+    {
+        "code": "426",
+        "name": "Gilartal"
+    },
+    {
+        "code": "427",
+        "name": "Barochara"
+    },
+    {
+        "code": "428",
+        "name": "Charagaon"
+    },
+    {
+        "code": "429",
+        "name": "Bagli"
+    },
+    {
+        "code": "430",
+        "name": "Bholagonj"
+    },
+    {
+        "code": "431",
+        "name": "Isamoti"
+    },
+    {
+        "code": "501",
+        "name": "Mongla Custom House"
+    },
+    {
+        "code": "502",
+        "name": "Khulna LC Station"
+    },
+    {
+        "code": "503",
+        "name": "Payra Custom House"
+    },
+    {
+        "code": "600",
+        "name": "CEV Commissionerate, Jashore"
+    },
+    {
+        "code": "601",
+        "name": "Benapole Custom House"
+    },
+    {
+        "code": "602",
+        "name": "Darshana"
+    },
+    {
+        "code": "603",
+        "name": "Bhomra"
+    },
+    {
+        "code": "702",
+        "name": "Sarisha Bari"
+    },
+    {
+        "code": "703",
+        "name": "Mymensingh"
+    },
+    {
+        "code": "704",
+        "name": "Aricha Ghat"
+    },
+    {
+        "code": "705",
+        "name": "Dhanua Kamalpur"
+    },
+    {
+        "code": "706",
+        "name": "Bijoypur"
+    },
+    {
+        "code": "707",
+        "name": "Haldigram"
+    },
+    {
+        "code": "708",
+        "name": "Lingura"
+    },
+    {
+        "code": "709",
+        "name": "Balimari"
+    },
+    {
+        "code": "710",
+        "name": "Madargonj"
+    },
+    {
+        "code": "711",
+        "name": "Nalita Bari"
+    },
+    {
+        "code": "712",
+        "name": "Gobrakur LC Station"
+    },
+    {
+        "code": "713",
+        "name": "Nakugaon LC Station"
+    },
+    {
+        "code": "715",
+        "name": "Karaitoli LC Station"
+    },
+    {
+        "code": "751",
+        "name": "Narayanganj"
+    },
+    {
+        "code": "752",
+        "name": "Pangaon"
+    },
+    {
+        "code": "753",
+        "name": "SAPL Customs Station"
+    },
+    {
+        "code": "754",
+        "name": "Summit Alliance Port Ltd. (SAPL)"
+    },
+    {
+        "code": "801",
+        "name": "CBC, Dhaka"
+    },
+    {
+        "code": "802",
+        "name": "CBC, Chattogram"
+    },
+    {
+        "code": "803",
+        "name": "DEPZ(POSCHIM)"
+    },
+    {
+        "code": "804",
+        "name": "ADAMJEE EPZ"
+    },
+    {
+        "code": "904",
+        "name": "Ishwardi EPZ, Pabna"
+    }
+]

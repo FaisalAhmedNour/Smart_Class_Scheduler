@@ -1,0 +1,66 @@
+[
+    {
+        "code": "07",
+        "name": "Centi meter"
+    },
+    {
+        "code": "16",
+        "name": "Cubic Feet"
+    },
+    {
+        "code": "19",
+        "name": "Cubic Metre(CBM)"
+    },
+    {
+        "code": "22",
+        "name": "Dozen"
+    },
+    {
+        "code": "25",
+        "name": "Gram"
+    },
+    {
+        "code": "31",
+        "name": "Kilogram(KG)"
+    },
+    {
+        "code": "40",
+        "name": "Litre"
+    },
+    {
+        "code": "43",
+        "name": "Meter"
+    },
+    {
+        "code": "49",
+        "name": "Number"
+    },
+    {
+        "code": "52",
+        "name": "Pair"
+    },
+    {
+        "code": "55",
+        "name": "Pieces"
+    },
+    {
+        "code": "64",
+        "name": "Square Meter"
+    },
+    {
+        "code": "73",
+        "name": "Yard"
+    },
+    {
+        "code": "",       
+        "name": "Number of Sets"
+    },
+    {
+        "code": "",        
+        "name": "Pack"
+    },
+    {
+        "code": "",
+        "name": "Square Feet"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "code": "01",
+        "name": "Non-EPZ"
+    },
+    {
+        "code": "02",
+        "name": "Chittagong EPZ, Chittagong"
+    },
+    {
+        "code": "03",
+        "name": "Dhaka EPZ, Dhaka"
+    },
+    {
+        "code": "04",
+        "name": "Adamji EPZ, Narayangonj"
+    },
+    {
+        "code": "05",
+        "name": "Comilla EPZ, Comilla"
+    },
+    {
+        "code": "06",
+        "name": "Ishwardi EPZ, Pabna"
+    },
+    {
+        "code": "07",
+        "name": "Uttara EPZ, Nilphamary"
+    },
+    {
+        "code": "08",
+        "name": "Korean EPZ, Chittagong"
+    },
+    {
+        "code": "09",
+        "name": "Others"
+    },
+    {
+        "code": "10",
+        "name": "Mongla EPZ, Khulna"
+    },
+    {
+        "code": "11",
+        "name": "Karnafuli EPZ, Chittagong."
+    },
+    {
+        "code": "12",
+        "name": "BEPZA EZ-1, Mirsarai"
+    },
+    {
+        "code": "13",
+        "name": "EZ-Mirsarai"
+    }
+]

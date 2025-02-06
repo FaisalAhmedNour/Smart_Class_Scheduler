@@ -1,0 +1,30 @@
+[
+    {
+        "code": "01",
+        "description": "Bill of Lading (B/L)"
+    },
+    {
+        "code": "02",
+        "description": "Railway Receipt"
+    },
+    {
+        "code": "03",
+        "description": "Airway Bill"
+    },
+    {
+        "code": "04",
+        "description": "Truck Receipt"
+    },
+    {
+        "code": "05",
+        "description": "Post Parcel Receipt"
+    },
+    {
+        "code": "06",
+        "description": "FCR"
+    },
+    {
+        "code": "07",
+        "description": "HAWB"
+    }
+]
