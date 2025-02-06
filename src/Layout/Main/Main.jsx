@@ -4,9 +4,11 @@ import Footer from "../../components/Footer/Footer";
 
 const Main = () => {
     return (
-        <div className="h-[100vh]">
+        <div className="h-[100vh] flex flex-col w-full justify-start">
             <Navbar />
-            <Outlet />
+            <div className="flex-grow w-full flex flex-col justify-start border">
+                <Outlet />
+            </div>
             <Footer />
         </div>
     )
