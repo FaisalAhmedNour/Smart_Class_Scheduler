@@ -558,7 +558,7 @@ export async function getInvestmentActivity(query) {
 export async function signup(data) {
   return ApiService.fetchData({
     credentials: 'omit',
-    url: "/pub/registration",
+    url: "/users",
     method: "post",
     data,
   });

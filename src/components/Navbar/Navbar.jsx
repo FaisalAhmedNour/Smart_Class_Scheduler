@@ -15,6 +15,7 @@ import AccountCircle from '@mui/icons-material/AccountCircle';
 import MailIcon from '@mui/icons-material/Mail';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import MoreIcon from '@mui/icons-material/MoreVert';
+import { useNavigate } from 'react-router-dom';
 
 const Search = styled('div')(({ theme }) => ({
   position: 'relative',
@@ -57,6 +58,7 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 }));
 
 export default function Navbar() {
+  const navigate = useNavigate();
   const [anchorEl, setAnchorEl] = React.useState(null);
   const [mobileMoreAnchorEl, setMobileMoreAnchorEl] = React.useState(null);
 
@@ -80,6 +82,19 @@ export default function Navbar() {
     setMobileMoreAnchorEl(event.currentTarget);
   };
 
+  const handleGotoHome = () => {
+    navigate("/");
+    handleMenuClose();
+  }
+  const handleGotoSignup = () => {
+    navigate("/signup");
+    handleMenuClose();
+  }
+  const handleGotoSignein = () => {
+    navigate("/signin");
+    handleMenuClose();
+  }
+
   const menuId = 'primary-search-account-menu';
   const renderMenu = (
     <Menu
@@ -97,8 +112,9 @@ export default function Navbar() {
       open={isMenuOpen}
       onClose={handleMenuClose}
     >
-      <MenuItem onClick={handleMenuClose}>Profile</MenuItem>
-      <MenuItem onClick={handleMenuClose}>My account</MenuItem>
+      <MenuItem onClick={handleGotoSignup}>Sign Up</MenuItem>
+      <MenuItem onClick={handleGotoSignein}>Sign In</MenuItem>
+      <MenuItem onClick={handleGotoHome}>Home</MenuItem>
     </Menu>
   );
 

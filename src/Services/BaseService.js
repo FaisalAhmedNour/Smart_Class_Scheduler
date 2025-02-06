@@ -4,7 +4,7 @@ import Cookies from "js-cookie";
 const unauthorizedCode = [401];
 
 // export const main_URL = "https://uicommercial.com";
-export const main_URL = "https://beta.uicommercial.com";
+export const main_URL = "http://localhost:3000";
 
 export const main_URL_Base = "http://localhost:3000/api";
 // export const main_URL_Base = "http://uicommercial.com:3002/api";
@@ -23,25 +23,7 @@ const BaseService = axios.create({
 
 BaseService.interceptors.request.use(
   (config) => {
-    if (config.omitCookies) {
-      config.headers.Cookie = "";
-    }
 
-    let token = Cookies.get("auth_token");
-    if (main_URL_Base === "https://uicommercial.com/api")
-      token = Cookies.get("auth_token");
-    else {
-      token = Cookies.get("auth_token_test");
-    }
-    // console.log(token)
-    const entToken = Cookies.get("ent_admin_token");
-
-    if (token) {
-      config.headers.Authorization = `Bearer ${token}`;
-    }
-    if (entToken) {
-      config.headers.ent_t = `Bearer ${entToken}`;
-    }
     return config;
   },
   (error) => {
